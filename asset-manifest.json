@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://man-exists.github.io/csb-ffx68/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://man-exists.github.io/csb-ffx68/static/js/main.0e782616.chunk.js",
+    "main.js.map": "https://man-exists.github.io/csb-ffx68/static/js/main.0e782616.chunk.js.map",
+    "runtime-main.js": "https://man-exists.github.io/csb-ffx68/static/js/runtime-main.b23f4ef2.js",
+    "runtime-main.js.map": "https://man-exists.github.io/csb-ffx68/static/js/runtime-main.b23f4ef2.js.map",
+    "static/js/2.c430d659.chunk.js": "https://man-exists.github.io/csb-ffx68/static/js/2.c430d659.chunk.js",
+    "static/js/2.c430d659.chunk.js.map": "https://man-exists.github.io/csb-ffx68/static/js/2.c430d659.chunk.js.map",
+    "index.html": "https://man-exists.github.io/csb-ffx68/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://man-exists.github.io/csb-ffx68/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.c430d659.chunk.js.LICENSE.txt": "https://man-exists.github.io/csb-ffx68/static/js/2.c430d659.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b23f4ef2.js",
+    "static/js/2.c430d659.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.0e782616.chunk.js"
+  ]
+}

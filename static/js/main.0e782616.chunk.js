@@ -1,0 +1,2 @@
+(this["webpackJsonpchakra-ui-typescript"]=this["webpackJsonpchakra-ui-typescript"]||[]).push([[0],{58:function(t,e,c){"use strict";c.r(e);var r=c(75),n=c(74),a=(c(1),c(52)),i=(c(67),c(37));function s(){return Object(i.jsx)(r.a,{children:"Welcome to Chakra + TS"})}var o=document.getElementById("root");Object(a.render)(Object(i.jsx)(n.a,{children:Object(i.jsx)(s,{})}),o)},67:function(t,e,c){}},[[58,1,2]]]);
+//# sourceMappingURL=main.0e782616.chunk.js.map
